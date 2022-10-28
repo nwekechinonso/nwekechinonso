@@ -1,10 +1,28 @@
-# Hello, I am Nweke Chinonso👋
+<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Cloud-Engineer-768x427.jpg" style="width=100%">
+
+<div style="display: flex; flex-direction: row;" align=center >
+  <a href="https://" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=PORTFOLIO&color=bbbbbb"/>
+  </a>
+  <a href="https://twitter.com/nwekechinonso" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=twitter&logoColor=AD9D90&labelColor=white&label=&message=TWITTER&color=bbbbbb"/>
+  </a>
+  <a href="https://linkedin.com/in/chinonso-nweke" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=bbbbbb"/>
+  </a>
+</div>
 ## 🚀 About Me
 
-Hello, my name is Nweke Chinonso, and my passion is creating and implementing effective client-to-server communication models either on-premises or in the cloud. My experience and formal education have deepened my skillset and knowledge of software deployment, and cloud deployment using cloud tools and services such as terraform and docker, including the application of network configurations across different platforms like AWS. while being able to support different companies to improve customer experience, reach them faster and more securely. My innovative mindset, cloud architectural knowledge, and ability to implement cost-saving and well-structured applications in the cloud can help your company develop, serve and achieve new milestones.<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwekechinonso&show_icons=true&theme=transparent&hide_border=true" alt="nwekechinonso stats card" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwekechinonso&theme=dracula&title_color=000000&text_color=050505&bg_color=f9f1f1&hide_border=true&layout=compact" alt="nweke chinonso stats card" /></p>
+My name is Nweke Chinonso, and my passion is creating and implementing effective client-to-server communication models either on-premises or in the cloud. My experience and formal education have deepened my skillset and knowledge of software deployment, and cloud deployment using cloud tools and services such as terraform and docker, including the application of network configurations across different platforms like AWS etc. while being able to support different companies to improve customer experience, reach them faster and more securely. My innovative mindset, cloud architectural knowledge, and ability to implement cost-saving and well-structured applications in the cloud can help your company develop, serve and achieve new milestones.<p>&nbsp;
+
+## My GitHub Stats
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=nwekechinonso&theme=transparent&show_icons=true&locale=en&border_radius=4" alt="nweke chinonso github stats" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=nwekechinonso&theme=nord&border_radius=4&layout=compact" alt="nweke chinonso stats" />
+</div>
+
+### Technologys and Tools
+
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
 </a>
@@ -40,16 +58,15 @@ Hello, my name is Nweke Chinonso, and my passion is creating and implementing ef
 </a>
 <a href="https://getbootstrap.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
+
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" margin="20" />
 </a>
 <a href="https://www.nginx.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" margin="20" />
 </a>
+
+### Activity Graph
+  
+![nweke chinonso github activity graph](https://activity-graph.herokuapp.com/graph?username=nwekechinonso&theme=nord)
+  
