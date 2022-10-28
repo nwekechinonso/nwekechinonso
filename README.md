@@ -1,4 +1,4 @@
-<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Cloud-Engineer-768x427.jpg" style="width=100%">
+<img src="https://th.bing.com/th/id/OIP.cexLI-6TN75Vef1agVrQ0gHaDt?pid=ImgDet&w=177&h=118&c=7" style="width=100%">
 
 <div style="display: flex; flex-direction: row;" align=center >
   <a href="https://" target="_blank">
