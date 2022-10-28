@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: nwekechinonso
             # Text on contribution graph 
-         text: YOU NEED ME
+         text: THANK YOU
        - uses: jasineri/simple-push-action@v1
