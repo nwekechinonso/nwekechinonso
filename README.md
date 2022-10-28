@@ -4,7 +4,7 @@
 Hello, my name is Nweke Chinonso, and my passion is creating and implementing effective client-to-server communication models either on-premises or in the cloud. My experience and formal education have deepened my skillset and knowledge of software deployment, and cloud deployment using cloud tools and services such as terraform and docker, including the application of network configurations across different platforms like AWS. while being able to support different companies to improve customer experience, reach them faster and more securely. My innovative mindset, cloud architectural knowledge, and ability to implement cost-saving and well-structured applications in the cloud can help your company develop, serve and achieve new milestones.<p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nwekechinonso&show_icons=true&theme=merko&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="nwekechinonso stats card" /></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nweke chinonso&theme=dracula&title_color=000000&text_color=050505&bg_color=f9f1f1&hide_border=true&layout=compact" alt="nweke chinonso stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwekechinonso&theme=dracula&title_color=000000&text_color=050505&bg_color=f9f1f1&hide_border=true&layout=compact" alt="nweke chinonso stats card" /></p>
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
 </a>
