@@ -60,3 +60,4 @@ My name is Nweke Chinonso, and my passion is creating and implementing effective
   
 ![nweke chinonso github activity graph](https://activity-graph.herokuapp.com/graph?username=nwekechinonso&theme=nord)
   
+![](gitartwork.svg)
