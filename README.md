@@ -53,9 +53,3 @@ Hello, my name is Nweke Chinonso, and my passion is creating and implementing ef
 <a href="https://www.nginx.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" margin="20" />
 </a>
-    
-<p align="left" margin-top="20" hide_border="true">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=nwekechinonso" alt="nwekechinonso" />
-</a>
-</p>
