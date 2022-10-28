@@ -1,17 +1,7 @@
 <img src="https://biztechcollege.com/wp-content/uploads/2020/07/Cloud-Engineer.png" style="width=100%">
 
-<div style="display: flex; flex-direction: row;" align=center >
-  <a href="https://" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=PORTFOLIO&color=bbbbbb"/>
-  </a>
-  <a href="https://twitter.com/nwekechinonso" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=twitter&logoColor=AD9D90&labelColor=white&label=&message=TWITTER&color=bbbbbb"/>
-  </a>
-  <a href="https://linkedin.com/in/chinonso-nweke" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=bbbbbb"/>
-  </a>
-</div>
-## 🚀 About Me
+# About Me
+
 
 My name is Nweke Chinonso, and my passion is creating and implementing effective client-to-server communication models either on-premises or in the cloud. My experience and formal education have deepened my skillset and knowledge of software deployment, and cloud deployment using cloud tools and services such as terraform and docker, including the application of network configurations across different platforms like AWS etc. while being able to support different companies to improve customer experience, reach them faster and more securely. My innovative mindset, cloud architectural knowledge, and ability to implement cost-saving and well-structured applications in the cloud can help your company develop, serve and achieve new milestones.<p>&nbsp;
 
