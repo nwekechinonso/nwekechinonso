@@ -3,7 +3,7 @@
 # About Me
 
 
-My name is Nweke Chinonso, and my passion is creating and implementing effective client-to-server communication models either on-premises or in the cloud. My experience and formal education have deepened my skillset and knowledge of software deployment, and cloud deployment using cloud tools and services such as terraform and docker, including the application of network configurations across different platforms like AWS etc. while being able to support different companies to improve customer experience, reach them faster and more securely. My innovative mindset, cloud architectural knowledge, and ability to implement cost-saving and well-structured applications in the cloud can help your company develop, serve and achieve new milestones.<p>&nbsp;
+Highly skilled Cloud/DevOps Engineer with a strong technical background. Proficient in designing and implementing cloud solutions using Microsoft Azure and AWS. I thrive in dynamic environments where technical expertise and customer-centricity combine to achieve outstanding results.<p>&nbsp;
 
 ## My GitHub Stats
 <div style="display: flex; flex-direction: row;">
